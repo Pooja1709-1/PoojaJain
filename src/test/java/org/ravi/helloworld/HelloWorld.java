@@ -13,7 +13,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 
-public class HelloTest {
+public class HelloWorld {
 
 	WebDriver driver;
 	WebElement text;
